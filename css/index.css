@@ -1,0 +1,15 @@
+.whatwedo{
+    background-image: url("../images/image4..jpg");
+  width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.carousel-item{
+    height: 500px;
+}
+.navbar .active{
+    border-bottom: 1px solid #ffffff;
+}
